@@ -48,3 +48,6 @@ Ejemplos
 ● entrada : "10.50" salida : [[0.05, 0.05, …. 0.05], …… [10.0, 0.5]]
 Los puntos suspensivos representan todas las combinaciones posibles para
 representar la cantidad monetaria ingresada.
+
+Imagen Unit Test:
+https://1drv.ms/i/s!AvEUda2hzpE5hB4XmcJ1kbpwpjyb
