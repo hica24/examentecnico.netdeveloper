@@ -1,0 +1,19 @@
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.exe.config
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.exe
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.pdb
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.csprojResolveAssemblyReference.cache
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.exe
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.exe.config
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.exe
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\ConsoleAppMetricaAndina.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\mscorlib.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\es\mscorlib.resources.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\normidna.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\normnfc.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\normnfd.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\normnfkc.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\bin\Debug\normnfkd.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.exe
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndina\obj\Debug\ConsoleAppMetricaAndina.csprojResolveAssemblyReference.cache

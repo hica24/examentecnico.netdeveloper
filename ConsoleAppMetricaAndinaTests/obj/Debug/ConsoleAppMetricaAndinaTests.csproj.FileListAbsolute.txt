@@ -1,0 +1,32 @@
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndinaTests.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndinaTests.pdb
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndina.exe
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndina.pdb
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndina.exe.config
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.csprojResolveAssemblyReference.cache
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.dll
+c:\users\jose.castillo\documents\visual studio 2017\Projects\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndinaTests.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndinaTests.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndina.exe
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\mscorlib.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\ConsoleAppMetricaAndina.pdb
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\es\mscorlib.resources.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\normidna.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\normnfc.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\normnfd.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\normnfkc.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\bin\Debug\normnfkd.nlp
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.dll
+C:\Users\CLIENTE\Desktop\ConsoleAppMetricaAndina\ConsoleAppMetricaAndinaTests\obj\Debug\ConsoleAppMetricaAndinaTests.pdb
